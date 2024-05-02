@@ -53,3 +53,5 @@ Doğrulama: Giriş alanları, geçerli numaraların boy ve kilo için girilmesin
 
 4-VKİ'nizi ve kategorisini görmek için "Hesapla" düğmesine tıklayın.
 
+
+
